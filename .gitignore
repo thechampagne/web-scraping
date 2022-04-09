@@ -1,0 +1,6 @@
+*.class
+*.exe
+rust/target/
+*.tasty
+kotlin/META-INF/
+*.obj
